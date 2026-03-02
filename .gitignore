@@ -5,6 +5,8 @@
 # Arquivos grandes de dados
 *.tgz
 *.zip
+*.tar.bz2
+*.csv
 
 # Ambientes virtuais
 venv/
@@ -16,3 +18,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Pastas
+*/datasets/
